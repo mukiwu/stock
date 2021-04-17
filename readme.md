@@ -1,1 +1,1 @@
-# 富果API
+* API 位置：https://developer.fugle.tw/document/intraday/introduction
